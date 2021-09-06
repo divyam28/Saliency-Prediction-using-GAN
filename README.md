@@ -2,6 +2,10 @@
 
 This is a SalGAN implementation without the pre-trained VGG features written in PyTorch.
 
+## Report
+
+For all other information and a detailed report and metrics, see ```Final Report.pdf```
+
 ## Usage
 
 Clone the repo. Download the trained generator weights [here](https://www.filemail.com/d/rtvlswuxeldsbtg). Run Test_Model.ipnyb using Jupyter Notebook and use functions ```saliency_from_link``` and ```saliency_from_val```
